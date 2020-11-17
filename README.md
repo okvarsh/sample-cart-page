@@ -28,3 +28,5 @@ Type http://localhost/sample/simple-php-shopping-cart/index.php to view the cart
 The colours and fonts can be formatted in style.css.
 
 Thank you!
+
+Reference: https://phppot.com/php/simple-php-shopping-cart/
